@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // センテンスと音声ファイルのマッピング
     const sentences = [
-        { text: "Major Gilbert.", audio: '/scene02/audio/001.mp3', newline: true },
+        { text: "Major Gilbert.", audio: 'audio/001.mp3', newline: true },
         { text: "I've been in the hospital for one hundred and twenty days now.", audio: '/scene02/audio/002.mp3', newline: true },
         { text: "My strength has almost recovered.", audio: '/scene02/audio/003.mp3', newline: true },
         { text: "Movement is still a little difficult,", audio: '/scene02/audio/004.mp3', newline: true },
