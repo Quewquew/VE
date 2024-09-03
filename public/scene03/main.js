@@ -43,8 +43,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { text: "The doctor told me that we won the war. ", audio: 'audio/037.mp3', newline: false },
         { text: "What post is he assigned to now?", audio: 'audio/038.mp3', newline: true },
         { text: "When will I be able to join him?", audio: 'audio/039.mp3', newline: true },
-        { text: "First, get changed. ", audio: 'audio/032.mp3', newline: false },
-        { text: "I'll have them send the car in the meantime.", audio: 'audio/032.mp3', newline: true }
+        { text: "First, get changed. ", audio: 'audio/040.mp3', newline: false },
+        { text: "I'll have them send the car in the meantime.", audio: 'audio/041.mp3', newline: true }
     ];
 
     // センテンスを表示し、音声を再生する関数
