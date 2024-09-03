@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { text: "Her existence had been kept hidden from everyone.", audio: 'audio/001.mp3', newline: true },
         { text: "However, some of the people who knew about her said that she was a weapon.", audio: 'audio/002.mp3', newline: true },
         { text: "She would fight if you ordered her to.", audio: 'audio/003.mp3', newline: false },
-        { text: "She just looked like a human.", audio: 'audio/003.mp3', newline: false },
+        { text: "She just looked like a human.", audio: 'audio/004.mp3', newline: false },
         { text: "She was just a tool without a heart.", audio: 'audio/004.mp3', newline: true },
         { text: "Lieutenant Hodgins, this way.", audio: 'audio/005.mp3', newline: true },
         { text: "Yeah, sorry.", audio: 'audio/006.mp3', newline: true },
